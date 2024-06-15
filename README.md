@@ -1,5 +1,29 @@
 # 💫 About Me:
-👋 Hi, I'm Vatan Prakash, a front-end developer passionate about creating engaging and user-friendly web experiences.<br><br>💻 Expertise: I specialize in HTML, CSS, and JavaScript, with a strong focus on modern frontend frameworks like React and Next JS. I'm experienced in building responsive, accessible, and performant web applications.<br><br>🔧 Skills: My skillset includes UI/UX design, responsive web development, browser compatibility, and version control (Git). <br><br>🌟 Interests: I'm passionate about staying up-to-date with the latest front-end trends, exploring new frameworks and libraries, and experimenting with innovative technologies. I enjoy solving challenging problems and creating intuitive user interfaces<br><br>💻 I'm currently working on a project in which users can have the liberty to choose the best stays  and a partner which suits their interests and requirements.<br>      This Application also allows users to manage their listings and reservations in a more concise manner.<br>      Tech used Next JS, Typescript, and Tailwind CSS.<br><br>🚀 I'm actively looking to collaborate on more Front-end projects which will allow me to become more familiar with real-world applications as well as gain knowledge from such projects.<br><br>📫 Let's Connect: Feel free to reach out to me through email (vatanprakash867@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/vatan-prakash-9ab19a211/).<br>I'm excited to collaborate on new projects and contribute to the ever-evolving world of front-end development. Let's build amazing web experiences together! 
+👋 Hi, I'm Vatan Prakash, a full-stack developer passionate about creating engaging and user-friendly web experiences.
+
+## 💻 Expertise
+I specialize in HTML, CSS, and JavaScript, focusing on modern frontend frameworks like React and Next.js. Additionally, I have extensive experience in backend development using Node.js, Express, and MongoDB, forming the MERN stack. I am adept at building responsive, accessible, and performant web applications from end to end.
+
+## 🔧 Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, SQL, NoSQL
+- **Additional Skills:** UI/UX design, responsive web development, browser compatibility, version control (Git)
+
+## 🌟 Interests
+I'm passionate about staying up-to-date with the latest web development trends, exploring new frameworks and libraries, and experimenting with innovative technologies. I enjoy solving challenging problems, creating intuitive user interfaces, and robust backend solutions.
+
+## 💻 Current Project
+I'm currently diving deeper into core backend development and working on a project to enhance my backend skills. This project focuses on creating scalable and efficient backend systems, utilizing Node.js, Express, MongoDB, and integrating SQL and NoSQL databases to handle diverse data requirements.
+
+### Previous Project
+I previously worked on a project that allowed users to choose the best stays and partners that suit their interests and requirements. This application also enabled users to manage their listings and reservations concisely. The tech stack included Next.js, TypeScript, and Tailwind CSS.
+
+## 🚀 Collaboration
+I'm actively looking to collaborate on more full-stack projects to gain real-world experience and knowledge. I am eager to learn from and contribute to new projects that push the boundaries of web development.
+
+## 📫 Let's Connect
+Feel free to reach out to me via email (vatanprakash867@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/vatan-prakash-9ab19a211/). I'm excited to collaborate on new projects and contribute to the ever-evolving world of web development. Let's build amazing web experiences together!
 
 
 ## 🌐 Socials:
