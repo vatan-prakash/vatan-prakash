@@ -93,7 +93,7 @@ I'm a **full-stack engineer** who turns ambiguous problems into clean, working s
 
 Scalable backend to automate outreach campaigns, driving a **40% increase in client engagement**. CSV bulk-import for 500+ contacts, cron-triggered AI bot calls by time zone, webhooks for real-time responses, and OpenAI-powered transcript analysis with Cal.com follow-up scheduling.
 
-### 🥷 Serving Ninjas &nbsp;`● Live`
+### 🥷 Serving Ninjas &nbsp;
 `React.js` `Tailwind CSS`
 
 End-to-end care-services marketplace connecting families with verified local helpers. Mobile-first frontend with multi-service booking, a live helper marketplace (ratings, distance, pricing), real-time tracking UI, and smart bidding / counter-offers.
@@ -103,7 +103,7 @@ End-to-end care-services marketplace connecting families with verified local hel
 
 Full-stack booking app letting users discover the best stays and partners, with a clean dashboard for hosts to manage listings and reservations end-to-end.
 
-> 💡 *Tip: replace the project headings with live links or repo links, e.g. `### [🥷 Serving Ninjas](https://your-live-url.com)`*
+> 
 
 ---
 
@@ -121,7 +121,7 @@ Full-stack booking app letting users discover the best stays and partners, with 
 <div align="center">
 
 <!-- Shows Total Contributions + Current daily Streak + Longest Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vatan-prakash&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vatan-prakash&theme=tokyonight&hide_border=true)
 
 </div>
 
